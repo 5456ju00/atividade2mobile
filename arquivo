@@ -1,0 +1,16 @@
+alert("Cadastro");
+
+var nome =  prompt("Digite o seu nome");
+var email = prompt("Digite o seu e-mail");
+var numeroCartao = prompt("Digite o número do seu cartão");
+var senhaUsuario = prompt("Digite a senha do usuário");
+
+
+console.log( nome );
+console.log( email );
+console.log( numeroCartao );
+console.log( senhaUsuario );
+
+
+alert("Cadastro concluído com sucesso!");
+ 
